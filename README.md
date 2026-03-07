@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aakif Khan @aakif123
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning computer science and engineering 
+- 👀 I’m a full-stack developer
+- 🌱 I’m currently working in Cognizant as a web-developer
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 you can reach me via linkedin www.linkedin.com/in/aakifkhan1299
 
